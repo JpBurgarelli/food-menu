@@ -1,7 +1,7 @@
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
 
 
-O projeto utiliza React para construir uma aplicação web de receitas, empregando o React Router para gerenciar navegação entre páginas. Destacam-se componentes como Search para pesquisa, Category para navegação por categorias de culinária, e Pages para a estrutura de roteamento. A animação é integrada com Framer Motion, proporcionando transições suaves. As seções Veggie e Popular na página inicial oferecem uma experiência interativa, enquanto o componente Searched exibe resultados dinâmicos de pesquisa. A arquitetura modular e a integração de bibliotecas contribuem para um desenvolvimento eficiente e uma interface amigável.
+O projeto utiliza React para construir uma aplicação web de receitas, empregando o React Router para gerenciar navegação entre páginas. Destacam-se componentes como Search para pesquisa, Category para navegação por categorias de culinária, e Pages para a estrutura de roteamento. A animação é integrada com Framer Motion, proporcionando transições suaves. As seções Veggie e Popular na página inicial oferecem uma experiência interativa, enquanto o componente Searched exibe resultados dinâmicos de pesquisa. A arquitetura modular e a integração de bibliotecas contribuem para um desenvolvimento eficiente e uma interface amigável e para as estilizações foi utilizado o styled-components.
 
 
 
